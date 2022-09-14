@@ -4,7 +4,7 @@ blog website using django framework also provided admin panel , where you can co
 
 ### To run this project 
 
-1. clone into your local machine :  ``` git clone https://github.com/shubhamAW/Django_blog.git```
+1. clone into your local machine :  ``` git clone https://github.com/bhagwatmohite/Django_blog.git```
 2. go to project using ```cd django_blog```
 3. go to inside folder ```cd django_blog ```
 4. now to install and activate virtual environment type command : ``` pipenv shell```
